@@ -1,0 +1,4 @@
+This project is basically an assembler thatconverts the assembly programs written in hack assembly language into hack machine language.
+This project is composed of two cpp files.
+In the first file named "hack assembler without symbols.cpp" only simple assembly programs (in which no symbol or label is used) are converted into machine code.
+The second file named "hack assem with symbols.cpp" works for both without symbols and with symbols assembly programs.
